@@ -6,12 +6,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D2AFBD93-C673-44B0-9385-E8D25187BDFC}</ProjectGuid>
+    <ProjectGuid>{057A3069-6D9A-4FDD-9027-4E2091E6864C}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Arachnophobia.TestWebsite</RootNamespace>
-    <AssemblyName>Arachnophobia.TestWebsite</AssemblyName>
+    <RootNamespace>Arachnophobia.TestWebsiteGAC</RootNamespace>
+    <AssemblyName>Arachnophobia.TestWebsiteGAC</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
     <TargetFrameworkProfile />

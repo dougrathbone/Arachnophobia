@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arachnophobia.TestWebsite",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arachnophobia.IIS", "Arachnophobia.IIS\Arachnophobia.IIS.csproj", "{64DC672F-DB09-45CF-A644-59BDD695E72D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arachnophobia.TestWebsiteGAC", "Arachnophobia.TestWebsiteGAC\Arachnophobia.TestWebsiteGAC.csproj", "{057A3069-6D9A-4FDD-9027-4E2091E6864C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{64DC672F-DB09-45CF-A644-59BDD695E72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64DC672F-DB09-45CF-A644-59BDD695E72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64DC672F-DB09-45CF-A644-59BDD695E72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057A3069-6D9A-4FDD-9027-4E2091E6864C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057A3069-6D9A-4FDD-9027-4E2091E6864C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057A3069-6D9A-4FDD-9027-4E2091E6864C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057A3069-6D9A-4FDD-9027-4E2091E6864C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
